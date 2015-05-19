@@ -1,1 +1,1 @@
-# physics-thing
+# Physics Thing
